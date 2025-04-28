@@ -14,6 +14,8 @@ subtitle:
     - Challenges of Numerical Methods
     - Physics-Informed Neural Networks
     - Hands-on with the DeepXDE Library
+    - Neural Operators
+    - Hands-on with the Neural Operators library
 3. Neural Networks for Modelling Differential Equations
     - Challenges on Differential Equations Formulation for Describing Real-world Systems
     - Neural Ordinary Differential Equations
