@@ -110,3 +110,60 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 Postoctoral researcher at the Helmut Schmidt University. She completed her Bachelor’s degree in Physics, her Master’s degree in Mathematics and Computation and her PhD in Mathematics, all at the University of Minho. Her Doctoral Thesis, completed in 2025, focused on “Neural Networks Based on Differential Equations for Modelling Real Systems” specifically developing architectures that model differential equations to data and methods to incorporate constraints. Her research interests lie at the intersection of mathematics and computer science, with a focus on enhancing the performance of real-world systems modeling. Her primary areas of study include Neural Networks, Scientific Machine Learning, Neural Ordinary Differential Equations, Physics-Informed Neural Networks, and Optimization for Machine Learning. Through her work, she aims to advance the application of mathematical and computational techniques in solving complex real-world problems. 
 
+ <font size="32" family="Open Sans">
+    <b>Bernd Zimmering</b>
+</font>
+
+<div>
+ <li class="list-inline-item">
+    <a href="mailto:bernd.zimmering@hsu-hh.de" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li>
+<li class="list-inline-item">
+   <a href="https://orcid.org/0000-0001-8292-9945" title="ORCID">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+     </span>
+     <span class="sr-only">ORCID</span>
+   </a>
+ </li>
+  <li class="list-inline-item">
+    <a href="https://scholar.google.com/citations?user=glIx3vsAAAAJ&hl=en" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Google Scholar</span>
+    </a>
+  </li>
+ 
+ <li class="list-inline-item">
+    <a href="https://github.com/zimmer-ing" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li>
+  
+  <li class="list-inline-item">
+    <a href="https://www.linkedin.com/in/bernd-zimmering-a97275104/" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li>
+</div>
+
+
+Currently pursuing a PhD in engineering at Helmut-Schmidt-University. His research is dedicated to advancing the application of Neural Ordinary Differential Equations (NODEs) and sophisticated time-continuous algorithms within the domain of cyber-physical systems. His work has been published in engineering journals and presented at conferences including MDPI Sensors, ICPS 2022 and ETFA 2024.  Organizer of the ECAI 2024 Workshop "[ML-DE] Machine Learning Meets Differential Equations: From Theory to Applications".
+
