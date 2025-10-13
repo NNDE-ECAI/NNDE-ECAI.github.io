@@ -22,7 +22,7 @@ subtitle:
     - Hands-on with the Torchdiffeq Library
 4. Wrap-up
     - Physics-Informed Neural Networks versus Neural Ordinary Differential Equations
-    - What's Next?
+    - What's Next? (lightining talk on Neural Operators, Neural Laplace, etc.)
 
 ### Schedule
 
