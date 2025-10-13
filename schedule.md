@@ -26,6 +26,9 @@ subtitle:
 
 ### Schedule
 
-TBA
+1st Part. 14:00h-15:30h
+Coffee break. 15:30h-16:00h
+2nd Part. 16:00h-17:30h
+
 
 
