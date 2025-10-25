@@ -2,4 +2,4 @@
 
 Here you can find the jupyter notebooks for the exercises done in the tutorial.
 
-[Jupyter Notebooks](assets/jupyterNotebook/ecai25-tutorial.ipynb)
+[Jupyter Notebooks](NNDE-ECAI/tree/main/assets/jupyterNotebook/ecai25-tutorial.ipynb)
