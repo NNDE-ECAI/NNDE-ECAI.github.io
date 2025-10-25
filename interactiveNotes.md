@@ -2,4 +2,4 @@
 
 Here you can find the jupyter notebooks for the exercises done in the tutorial.
 
-[Jupyter Notebooks](assets/jupyterNotebook)
+[Jupyter Notebooks](assets/jupyterNotebook/)
